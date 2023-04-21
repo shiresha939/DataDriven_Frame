@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[no of rows are::9]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee success::19527   19527]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee success::19528   19528]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee success::19529   19529]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee success::19530   19530]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee success::19531   19531]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee success::19532   19532]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee success::19533   19533]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee success::19534   19534]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee success::19535   19535]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-04-15T00:13:50 IST" name="Default suite" finished-at="2023-04-15T00:14:59 IST" duration-ms="68886">
+    <groups>
+    </groups>
+    <test started-at="2023-04-15T00:13:50 IST" name="Default test" finished-at="2023-04-15T00:14:59 IST" duration-ms="68886">
+      <class name="driveryFactory.TestScript">
+        <test-method is-config="true" signature="AdminLogin()[pri:0, instance:driveryFactory.TestScript@74ea2410]" started-at="2023-04-15T00:13:51 IST" name="AdminLogin" finished-at="2023-04-15T00:14:05 IST" duration-ms="14909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminLogin -->
+        <test-method signature="startTest()[pri:0, instance:driveryFactory.TestScript@74ea2410]" started-at="2023-04-15T00:14:06 IST" name="startTest" finished-at="2023-04-15T00:14:57 IST" duration-ms="51555" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[no of rows are::9]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee success::19527   19527]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee success::19528   19528]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee success::19529   19529]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee success::19530   19530]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee success::19531   19531]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee success::19532   19532]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee success::19533   19533]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee success::19534   19534]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee success::19535   19535]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:driveryFactory.TestScript@74ea2410]" started-at="2023-04-15T00:14:57 IST" name="teardown" finished-at="2023-04-15T00:14:59 IST" duration-ms="2268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- driveryFactory.TestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
